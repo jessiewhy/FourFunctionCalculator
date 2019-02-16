@@ -1,2 +1,2 @@
-"# FourFunctionCalculator" 
+"# FourFunctionCalculator" \n
 Handles +, -, *, / and signed numbers
