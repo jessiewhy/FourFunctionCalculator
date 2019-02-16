@@ -1,2 +1,2 @@
-"# FourFunctionCalculator"</b>
-Handles +, -, *, / and signed numbers
+"# FourFunctionCalculator"\
+Handles +, -, *, / operands and signed number operations
